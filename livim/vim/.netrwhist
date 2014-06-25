@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/data3/wkb/test/mico_prog'
+let g:netrw_dirhist_2='/data0/kefeng2/work/trunk/nginx/mod_adfront/conf'
+let g:netrw_dirhist_3='/data2/sunyan/weibo_BD/branches/20130319_settle_r1.0_DEV'
+let g:netrw_dirhist_4='/usr/local/include'
